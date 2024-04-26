@@ -17,5 +17,5 @@ https://github.com/iotum/community/issues </br>
 </br>
 
 **Set Up A Call With an Expert** </br>
-With our low-code widgets, alongside SDKs and APIs, you can effortlessly enhance your website or software with video and chat features to engage your customers without the technical hassle. </br>
+Our customers leverage our solutions in different ways, whether it’s White Labeling our collaboration platform or implementing one of our plug-and-play APIs. Our technology is completely customizable and effortless to execute. </br>
 https://www.iotum.com/contact-us/
